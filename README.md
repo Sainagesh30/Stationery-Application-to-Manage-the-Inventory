@@ -111,6 +111,4 @@ This project is designed to create a comprehensive stationery inventory manageme
 4. Configure user accounts and access controls.
 5. Implement automated flows and reports.
 
-## Contributing
 
-Contributions are welcome! Please submit a pull request with your changes.
